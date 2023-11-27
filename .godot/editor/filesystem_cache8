@@ -1,0 +1,10 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1701066051
+game_of_life.glsl::RDShaderFile::8069161771816231389::1701066051::1701066059::1::::<><>::
+icon.svg::CompressedTexture2D::158313488989592674::1700863905::1700863912::1::::<><>::
+dot_matrix.tscn::PackedScene::4294296459038818070::1701065724::0::1::::<><>::res://dot_matrix.gdshader<>uid://i5t864qn4f88::::res://Textures/tex_Lit.png<>uid://cixnuo6r47ak::::res://icon.svg<>uid://hxaj34bne4jp::::res://Textures/tex_Unlit.png<>res://Dispatcher.cs
+dot_matrix.gdshader::Shader::-1::1701065725::0::1::::<><>::
+Dispatcher.cs::CSharpScript::-1::1701065633::0::1::::<><>::
+::res://Textures/::1700875761
+tex_Lit.png::CompressedTexture2D::624656309556145167::1700875752::1700875761::1::::<><>::
+tex_Unlit.png::CompressedTexture2D::538820181470876549::1700875721::1700875761::1::::<><>::

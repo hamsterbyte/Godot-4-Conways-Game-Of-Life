@@ -1,0 +1,17 @@
+D:\Godot Tutorials\Game Of Life\.godot\mono\temp\bin\Debug\Game Of Life.deps.json
+D:\Godot Tutorials\Game Of Life\.godot\mono\temp\bin\Debug\Game Of Life.runtimeconfig.json
+D:\Godot Tutorials\Game Of Life\.godot\mono\temp\bin\Debug\Game Of Life.dll
+D:\Godot Tutorials\Game Of Life\.godot\mono\temp\bin\Debug\Game Of Life.pdb
+D:\Godot Tutorials\Game Of Life\.godot\mono\temp\bin\Debug\GodotSharp.dll
+D:\Godot Tutorials\Game Of Life\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+D:\Godot Tutorials\Game Of Life\.godot\mono\temp\obj\Debug\Game Of Life.csproj.AssemblyReference.cache
+D:\Godot Tutorials\Game Of Life\.godot\mono\temp\obj\Debug\Game Of Life.GeneratedMSBuildEditorConfig.editorconfig
+D:\Godot Tutorials\Game Of Life\.godot\mono\temp\obj\Debug\Game Of Life.AssemblyInfoInputs.cache
+D:\Godot Tutorials\Game Of Life\.godot\mono\temp\obj\Debug\Game Of Life.AssemblyInfo.cs
+D:\Godot Tutorials\Game Of Life\.godot\mono\temp\obj\Debug\Game Of Life.csproj.CoreCompileInputs.cache
+D:\Godot Tutorials\Game Of Life\.godot\mono\temp\obj\Debug\Game Of Life.csproj.CopyComplete
+D:\Godot Tutorials\Game Of Life\.godot\mono\temp\obj\Debug\Game Of Life.dll
+D:\Godot Tutorials\Game Of Life\.godot\mono\temp\obj\Debug\refint\Game Of Life.dll
+D:\Godot Tutorials\Game Of Life\.godot\mono\temp\obj\Debug\Game Of Life.pdb
+D:\Godot Tutorials\Game Of Life\.godot\mono\temp\obj\Debug\Game Of Life.genruntimeconfig.cache
+D:\Godot Tutorials\Game Of Life\.godot\mono\temp\obj\Debug\ref\Game Of Life.dll

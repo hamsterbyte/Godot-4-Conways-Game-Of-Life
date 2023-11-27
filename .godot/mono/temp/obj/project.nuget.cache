@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ExIPYC8kWOMxltOAORo+NHMxX6CCD2dJ45AKFuO38/hsmZiSFJEqccliDWsVvZgHaYpxF7ACihTJn0sDceFrKQ==",
+  "success": true,
+  "projectFilePath": "D:\\Godot Tutorials\\Game Of Life\\Game Of Life.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thehamsterbyte\\.nuget\\packages\\godot.sourcegenerators\\4.1.1\\godot.sourcegenerators.4.1.1.nupkg.sha512",
+    "C:\\Users\\thehamsterbyte\\.nuget\\packages\\godotsharp\\4.1.1\\godotsharp.4.1.1.nupkg.sha512",
+    "C:\\Users\\thehamsterbyte\\.nuget\\packages\\godotsharpeditor\\4.1.1\\godotsharpeditor.4.1.1.nupkg.sha512",
+    "C:\\Users\\thehamsterbyte\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\thehamsterbyte\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\thehamsterbyte\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
