@@ -72,6 +72,22 @@ public partial class Dispatcher : Node{
     #endregion
     
     #region IMAGE SETUP
+    /// <summary>
+    /// Merges the input image into the output image.
+    /// </summary>
+    /// <remarks>
+    /// This takes the input image and copies its pixel data into the output image.
+    /// It calculates start positions to center the input image in the output.
+    /// 
+    /// It then copies pixel by pixel from the input to the output. It bounds checks each pixel 
+    /// to ensure it will fit in the output image dimensions before setting it.
+    ///
+    /// Finally it sets the input image data to the output image data, to sync them.
+    /// </remarks>
+    /// <param name="outputWidth">The width of the output image</param>
+    /// <param name="outputHeight">The height of the output image</param>
+    /// <param name="inputWidth">The width of the input image</param>
+    /// <param name="inputHeight">The height of the input image</param>
 
     private void MergeImages(){
         int outputWidth = _outputImage.GetWidth();
