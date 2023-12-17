@@ -4,7 +4,7 @@
 [ext_resource type="Texture2D" uid="uid://i5t864qn4f88" path="res://Textures/tex_Lit.png" id="2_u5222"]
 [ext_resource type="Texture2D" uid="uid://cixnuo6r47ak" path="res://icon.svg" id="2_yk0ti"]
 [ext_resource type="Texture2D" uid="uid://hxaj34bne4jp" path="res://Textures/tex_Unlit.png" id="3_oxvjj"]
-[ext_resource type="Script" path="res://Dispatcher.cs" id="5_l0dqx"]
+[ext_resource type="Script" path="res://Dispatcher.gd" id="5_1kuf3"]
 
 [sub_resource type="FastNoiseLite" id="FastNoiseLite_eho1p"]
 
@@ -41,6 +41,6 @@ metadata/_edit_lock_ = true
 environment = SubResource("Environment_07w6a")
 
 [node name="Dispatcher" type="Node" parent="." node_paths=PackedStringArray("_renderer")]
-script = ExtResource("5_l0dqx")
-_computeShader = "res://game_of_life.glsl"
+script = ExtResource("5_1kuf3")
+_compute_shader = "res://game_of_life.glsl"
 _renderer = NodePath("../Renderer")
